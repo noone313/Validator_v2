@@ -9,7 +9,7 @@ This project showcases the usage of TypeScript decorators for property validatio
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/yourusername/decorators-validation-project.git](https://github.com/noone313/Validator_v2.git)
+   git clone https://github.com/noone313/Validator_v2.git
    ```
 ```bash
 cd decorators-validation-project
